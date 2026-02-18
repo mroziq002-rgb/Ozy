@@ -1,5 +1,5 @@
-const SUPABASE_URL = "https://xqpogdawmqqqoakrzdts.supabase.co";
-const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhxcG9nZGF3bXFxcW9ha3J6ZHRzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njg4NDMyOTYsImV4cCI6MjA4NDQxOTI5Nn0.5HC96GHVhmCaH6LNWeMuclRGS-xq7sjpeqUxjpkMguY";
+const SUPABASE_URL = "https://mxrdvgwiywoqffouwhre.supabase.co";
+const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im14cmR2Z3dpeXdvcWZmb3V3aHJlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA2MjcxNjIsImV4cCI6MjA4NjIwMzE2Mn0.RaGlJz9XQR8wURTFRm3MLdZRpJ1XK1fwLkwSrwar05I";
 
 const tbody = document.getElementById("data-siswa");
 
